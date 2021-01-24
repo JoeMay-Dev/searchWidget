@@ -28,7 +28,7 @@ body {
 	padding: 15px;
 	height: 50px;
 	width: 50px;
-	transform: width 0.5s ease;
+	transform: width 0.2s ease;
 }
 
 .btn {
@@ -42,7 +42,7 @@ body {
 	left: 0;
 	height: 50px;
 	width: 50px;
-	transition: transform 0.5s ease;
+	transition: transform 0.2s ease;
 }
 
 .btn:focus,
